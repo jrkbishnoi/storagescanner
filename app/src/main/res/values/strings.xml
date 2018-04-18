@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StorageScanner</string>
+    <string name="permission_required_for_scan">Storage Permission is required to Scan SdCard.</string>
+
+    <string name="scanning_channel">SD Card Scanning</string>
+    <string name="scanning_completed">Scanning completed</string>
+    <string name="scanning_sdcard">Scanning sdcard</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="scanning_results">Last Scan Results</string>
+    <string name="average_file_size">Average file size %s</string>
+    <string name="top_files">Top files</string>
+    <string name="frequent_extensions">Frequent Extensions</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="scanning_dir">Scanning %s</string>
+</resources>
